@@ -48,7 +48,7 @@ The following pages show screen shots of the visualisations required for the Web
 
 
 
-Author: Mike Murphy 
+# Author: Mike Murphy 
 
 ### Dashboard - Landing Page
 ![image](https://user-images.githubusercontent.com/89948865/152234877-a142e331-1ab6-47a4-b9f7-f52fee785215.png)
