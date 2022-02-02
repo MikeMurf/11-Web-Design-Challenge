@@ -2,12 +2,11 @@
 
 The Web Design Challenge assignment required the creation of a dashboard using visualisations produced in the Python APIs assignment. 
 
-Details of the requirements of these assignments can be found at the following links: 
- Web Design Assignment 
- https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/10-Advanced-Data-Storage-and-Retrieval/Instructions
-
- Python APIs 
- https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/06-Python-APIs/Instructions
+Details of the requirements of these assignments can be found at the following links: - 
+* Web Design Assignment 
+* https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/10-Advanced-Data-Storage-and-Retrieval/Instructions
+* Python APIs 
+* https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/06-Python-APIs/Instructions
 
  The Web Design assignment required the use of the following components:
 * HTML 
