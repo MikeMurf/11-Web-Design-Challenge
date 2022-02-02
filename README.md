@@ -29,6 +29,7 @@ The “11_web_design_challenge” directory contains the following files submitt
 * “wind speed” – the Chrome HTML document which contains the wind speed visualisations,
 * “weather_cities” – the Jupyter Notebook used to convert the Pandas data frame to a HTML file,
 * “data_570” – the Chrome HTML document which contains the HTML table produced in Pandas. 
+ 
 The files can be run from this directory. 
 
 ### Dashboard 
