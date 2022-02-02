@@ -1,4 +1,4 @@
-### Web Design Challenge
+### Web Design Challenge - MikeMurf
 
 The Web Design Challenge assignment required the creation of a dashboard using visualisations produced in the Python APIs assignment. 
 
@@ -34,21 +34,7 @@ The files can be run from this directory.
 
 ### Dashboard 
 
-The following pages show screen shots of the visualisations required for the Web Design assignment. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Author: Mike Murphy 
+The following pages show screen shots of the visualisations required for the Web Design assignment.  
 
 ### Dashboard - Landing Page
 ![image](https://user-images.githubusercontent.com/89948865/152234877-a142e331-1ab6-47a4-b9f7-f52fee785215.png)
