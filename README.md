@@ -19,7 +19,6 @@ HTML, CSS, Bootstrap and @Media were used in the creation of the web pages.
 Pandas was used to create a HTML file from the data frame produced in the Python APIs assignment. 
 
 The “11_web_design_challenge” directory contains the following files submitted for assessment:
-* “web_design_challenge_dashboard” – the Word document describing the project,
 * “main” – the Chrome HTML document which contains the main Dashboard,
 * “main” – the CSS Source file which describes how the HTML elements are displayed,
 * “comparisons” – the Chrome HTML document which contains the comparative visualisations,
