@@ -53,25 +53,26 @@ The following pages show screen shots of the visualisations required for the Web
 ## Landing Page
 ![image](https://user-images.githubusercontent.com/89948865/152234877-a142e331-1ab6-47a4-b9f7-f52fee785215.png)
  
-Dashboard
-•	Comparisons Page – Medium – Large Screen
+### Dashboard
+## Comparisons Page – Medium – Large Screen
+![image](https://user-images.githubusercontent.com/89948865/152235078-12681562-535b-4c44-a45f-e4ba78add371.png)
  
-Dashboard
-•	Comparisons Page – Small Screen
+### Dashboard
+## Comparisons Page – Small Screen
  
-Dashboard
-•	Maximum Temperature Page
+### Dashboard
+## Maximum Temperature Page
  
-Dashboard
-•	Humidity Page
+### Dashboard
+## Humidity Page
  
-Dashboard
-•	Cloudiness Page
+### Dashboard
+## Cloudiness Page
  
-Dashboard
-•	Wind Speed Page
+### Dashboard
+## Wind Speed Page
  
-Dashboard
-•	Data Page
+### Dashboard
+## Data Page
  
 
