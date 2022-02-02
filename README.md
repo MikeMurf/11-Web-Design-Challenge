@@ -16,19 +16,23 @@ Details of the requirements of these assignments can be found at the following l
 * @Media
 * Pandas 
 
-HTML, CSS, Bootstrap and @Media were used in the creation of the web pages. Pandas was used to create a HTML file from the data frame produced in the Python APIs assignment.
+HTML, CSS, Bootstrap and @Media were used in the creation of the web pages. 
+Pandas was used to create a HTML file from the data frame produced in the Python APIs assignment. 
+
 The “11_web_design_challenge” directory contains the following files submitted for assessment:
-•	“web_design_challenge_dashboard” – the Word document describing the project,
-•	“main” – the Chrome HTML document which contains  the main Dashboard,
-•	“main” – the CSS Source file which describes how the HTML elements are displayed,
-•	“comparisons” – the Chrome HTML document which contains the comparative visualisations,
-•	“max_temperature” – the Chrome HTML document which contains the temperature  visualisations,
-•	“humidity” – the Chrome HTML document which contains the humidity visualisations,
-•	“cloudiness” – the Chrome HTML document which contains the cloudiness visualisations,
-•	“wind speed” – the Chrome HTML document which contains the wind speed visualisations,
-•	“weather_cities” – the Jupyter Notebook used to convert the Pandas data frame to a HTML file,
-•	“data_570” – the Chrome HTML document which contains the HTML table produced in Pandas.
-Dashboard
+* “web_design_challenge_dashboard” – the Word document describing the project,
+* “main” – the Chrome HTML document which contains  the main Dashboard,
+* “main” – the CSS Source file which describes how the HTML elements are displayed,
+* “comparisons” – the Chrome HTML document which contains the comparative visualisations,
+* “max_temperature” – the Chrome HTML document which contains the temperature  visualisations,
+* “humidity” – the Chrome HTML document which contains the humidity visualisations,
+* “cloudiness” – the Chrome HTML document which contains the cloudiness visualisations,
+* “wind speed” – the Chrome HTML document which contains the wind speed visualisations,
+* “weather_cities” – the Jupyter Notebook used to convert the Pandas data frame to a HTML file,
+* “data_570” – the Chrome HTML document which contains the HTML table produced in Pandas. 
+
+### Dashboard 
+
 The following pages show screen shots of the visualisations required for the Web Design assignment. 
 
 
@@ -43,9 +47,10 @@ The following pages show screen shots of the visualisations required for the Web
 
 
 
-Author: Mike Murphy 
-Dashboard
-•	Landing Page
+### Author: Mike Murphy 
+
+### Dashboard
+## Landing Page
  
 Dashboard
 •	Comparisons Page – Medium – Large Screen
